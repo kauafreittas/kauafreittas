@@ -1,7 +1,7 @@
 <h1>Olá eu sou o Kauã</h1>
 <p>👋 Olá! Eu sou o Kauã de Freitas 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Anhembi Morumbi 💻 Apaixonado por tecnologia, desenvolvimento web e análise de empresas 🚀 Atualmente explorando HTML, CSS, Python, JavaScript entre outros  📌 Sempre em busca de novos desafios e aprendizados!   </p>
 
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>🚀Idiomas e ferramentas que eu uso</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="42" /></a> 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" /></a>
@@ -16,7 +16,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30" /></a></p>
 
-<h2>⚡️ Where to find me</h2>
+<h2>⚡️Onde me encontrar</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/kauadefreitas/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 <table>
