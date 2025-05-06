@@ -1,5 +1,6 @@
 <h1>Olá eu sou o Kauã</h1>
-<p>👋 Olá! Eu sou o Kauã de Freitas 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Anhembi Morumbi 💻 Apaixonado por tecnologia, desenvolvimento web e análise de empresas 🚀 Atualmente explorando HTML, CSS, Python, JavaScript, trabalho tambem como Design Gráfico, edição de vídeo, identidade visual e conteúdo digital  📌 Sempre em busca de novos desafios e aprendizados!   </p>
+<p>👋 Olá! Eu sou o Kauã de Freitas 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Anhembi Morumbi 💻 Apaixonado por tecnologia, desenvolvimento web e análise de empresas 🚀 Atualmente explorando HTML, CSS, Python, JavaScript, trabalho tambem como Design Gráfico, edição de vídeo, identidade visual e conteúdo digital.
+📌 Sempre em busca de novos desafios e aprendizados!   </p>
 
 <h2>🚀Idiomas e ferramentas que eu uso</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="42" /></a> 
